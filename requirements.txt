@@ -1,0 +1,6 @@
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+keras>=2.1.2
